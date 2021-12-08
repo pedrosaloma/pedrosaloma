@@ -17,7 +17,9 @@ ___
 <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" /> <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 
 ___
+### Algumas estastisticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical&count_private=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrosalomao)
 
 
