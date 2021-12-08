@@ -20,6 +20,6 @@ ___
 ### Algumas estastisticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical&count_private=true)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pedrosalomao)
+
 
 
