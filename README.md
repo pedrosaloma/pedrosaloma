@@ -19,13 +19,13 @@ ___
 ### Algumas estastisticas
 
 <div Style="display: inline-block;">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaloma&theme=radical">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaloma&theme=radical">
 </div>
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=pedrosaloma&theme=gotham&hide_border=true&area=true">
+<img height="190em" src="https://activity-graph.herokuapp.com/graph?username=pedrosaloma&theme=gotham&hide_border=true&area=true">
 
 
 
