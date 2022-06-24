@@ -18,8 +18,8 @@ ___
 ___
 ### Algumas estastisticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaloma&theme=radical">
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=pedrosaloma&show_icons=true&theme=radical">
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaloma&theme=radical">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=pedrosaloma&theme=gotham&hide_border=true&area=true">
 
