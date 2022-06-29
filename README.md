@@ -1,4 +1,4 @@
-# Analista e Desenvovedor de Sistemas
+# Analista e Desenvolvedor de Sistemas
 
 ### Algumas estastisticas
 
