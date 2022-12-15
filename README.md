@@ -7,7 +7,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosaloma&theme=radical&layout=compact">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrosaloma&bg_color=4b2f3e&color=ffffff&line=9e4c98&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedrosaloma&bg_color=22272e&color=ffffff&line=9e4c98&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img height = "30em" widht = "30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
